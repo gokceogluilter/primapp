@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+primapp.sqlite3
+primapp.sqlite3-wal
+primapp.sqlite3-shm
+.DS_Store
